@@ -25,11 +25,11 @@ class MultiViewSlideActivity : AppCompatActivity() {
     private var mData = ArrayList<ImageEntity>()
 
     init {
-        mData.add(ImageEntity("https://ws1.sinaimg.cn/large/0065oQSqly1fw8wzdua6rj30sg0yc7gp.jpg", false))
-        mData.add(ImageEntity("https://ws1.sinaimg.cn/large/0065oQSqgy1fy58bi1wlgj30sg10hguu.jpg", false))
-        mData.add(ImageEntity("https://ws1.sinaimg.cn/large/0065oQSqly1fymj13tnjmj30r60zf79k.jpg", false))
-        mData.add(ImageEntity("https://ws1.sinaimg.cn/large/0065oQSqly1fytdr77urlj30sg10najf.jpg", false))
-        mData.add(ImageEntity("https://ws1.sinaimg.cn/large/0065oQSqgy1fze94uew3jj30qo10cdka.jpg", false))
+        mData.add(ImageEntity("https://gank.io/images/d6bba8cf5b8c40f9ad229844475e9149", false))
+        mData.add(ImageEntity("https://gank.io/images/d6bba8cf5b8c40f9ad229844475e9149", false))
+        mData.add(ImageEntity("https://gank.io/images/d6bba8cf5b8c40f9ad229844475e9149", false))
+        mData.add(ImageEntity("https://gank.io/images/d6bba8cf5b8c40f9ad229844475e9149", false))
+        mData.add(ImageEntity("https://gank.io/images/d6bba8cf5b8c40f9ad229844475e9149", false))
     }
 
     /**

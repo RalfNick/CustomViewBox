@@ -55,7 +55,7 @@ class SingleSlideActivity : AppCompatActivity() {
             }
         }
         Glide.with(this)
-            .load("https://ws1.sinaimg.cn/large/0065oQSqly1fw8wzdua6rj30sg0yc7gp.jpg")
+            .load("https://gank.io/images/d6bba8cf5b8c40f9ad229844475e9149")
             .into(image_view)
     }
 }
